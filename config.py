@@ -48,10 +48,10 @@ keywords = [
 # ------------------------------------------------------------ Dynamic Content
 
 release = {
-    'name': os.environ.get('TRAVIS_TAG', ''),  # e.g. `1.0.0rc2`
-    'version': '',                             # e.g. `1.0.0`
-    'status': '',                              # e.g. `rc`
-    'classifier': '',                          # e.g. `5 - Production/Stable`
+    'name': '2.0.0rc2',  # e.g. `1.0.0rc2`
+    'version': '2.0.0',                             # e.g. `1.0.0`
+    'status': 'rc2',                              # e.g. `rc`
+    'classifier': '5 - Production/stable',                          # e.g. `5 - Production/Stable`
 }
 
 if release['name']:
