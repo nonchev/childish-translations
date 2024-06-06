@@ -111,7 +111,7 @@ venv.bak/
 .mypy_cache/
 
 # generated config.json
-config.json
+#config.json
 
 # generated django project
 project
