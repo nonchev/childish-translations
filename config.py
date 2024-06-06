@@ -48,9 +48,9 @@ keywords = [
 # ------------------------------------------------------------ Dynamic Content
 
 release = {
-    'name': '2.0.0rc2',  # e.g. `1.0.0rc2`
+    'name': '2.0.0rc5',  # e.g. `1.0.0rc2`
     'version': '2.0.0',                             # e.g. `1.0.0`
-    'status': 'rc2',                              # e.g. `rc`
+    'status': 'rc',                              # e.g. `rc`
     'classifier': '5 - Production/stable',                          # e.g. `5 - Production/Stable`
 }
 
